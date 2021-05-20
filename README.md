@@ -30,6 +30,9 @@
  <br> Top N Movies with Lifetime Gross based on specified dates </br>
  ![image](https://user-images.githubusercontent.com/55294349/118555136-4e020300-b730-11eb-86ba-63346114d8bc.png)
  
+ <br> Top N Movies with highest Gross Collection based on Genre category </br>
+ ![image](https://user-images.githubusercontent.com/55294349/118913912-59a02600-b8f8-11eb-8c02-ca7caea0b5f2.png)
+ 
  <br> Top N Distributor with Top Movies based Revenue </br>
  ![image](https://user-images.githubusercontent.com/55294349/118555401-a6390500-b730-11eb-9744-eb15c4948a99.png)
 
