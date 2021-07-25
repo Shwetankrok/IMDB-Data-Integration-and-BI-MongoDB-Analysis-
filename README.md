@@ -35,6 +35,28 @@
  
  <br> Top N Distributor with Top Movies based Revenue </br>
  ![image](https://user-images.githubusercontent.com/55294349/118555401-a6390500-b730-11eb-9744-eb15c4948a99.png)
+ 
+ # NoSQL
+ 
+ <br> Loading the data files into Talend for data profiling and finding data issues </br>
+ <br> Using MongoDb Compass to join tables and write queries to answer questions like: </br>
+ <br>Top 10 Movies with Highest votes</br>
+ <br> Top/ Bottom N Movies based on year for each genre </br>
+ <br> Top best directors AND writers based on highest ratings of movies </br>
+ <br> Top Movies with Highest USA Gross Income </br>
+ <br> Top Movies with Highest Budget </br>
+ <br> Created dashboard in MongoDB Charts </br>
+ ![image](https://user-images.githubusercontent.com/55294349/126888056-fa09a241-1ddf-497f-9f9b-1e175b886270.png)
+ ![image](https://user-images.githubusercontent.com/55294349/126888069-dee1d11e-b808-4f4b-a940-e1529017d011.png)
+ ![image](https://user-images.githubusercontent.com/55294349/126888073-b455bbaf-423f-4051-957e-357538228ab5.png)
+ ![image](https://user-images.githubusercontent.com/55294349/126888078-b7988b34-ee44-4506-8116-b180f5fe1986.png)
+ ![image](https://user-images.githubusercontent.com/55294349/126888083-94dd01cc-5f6b-4f91-b34c-f1a671609063.png)
+
+
+
+
+
+ 
 
 
 
