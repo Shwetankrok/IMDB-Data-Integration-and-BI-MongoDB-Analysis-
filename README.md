@@ -1,4 +1,4 @@
-# IMDB-Data-Integration-and-BI AND MONGODB QUERY AND VISUALIZATION (NoSQL)
+# IMDB-Data-Integration-and-BI (Talend, MSSQL, MySQL, Tableau)  AND MongoDb Queries & Visualization (NoSQL)
 
 <b> Description Steps </b>
 <br>1: Designed dimensional and fact tables </br>
