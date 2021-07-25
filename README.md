@@ -1,4 +1,4 @@
-# IMDB-Data-Integration-and-BI
+# IMDB-Data-Integration-and-BI AND MONGODB QUERY AND VISUALIZATION (NoSQL)
 
 <b> Description Steps </b>
 <br>1: Designed dimensional and fact tables </br>
